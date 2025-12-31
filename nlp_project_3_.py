@@ -168,3 +168,8 @@ with gr.Blocks(title="ChatBox") as demo:
     send_btn.click(chat_fn, [msg, chatbox], [chatbox, msg])
 
 demo.launch()
+
+
+
+
+Colab link = https://colab.research.google.com/drive/1uENmeNevX0Dxqk2NbR6klBTr_Dofobhj?usp=sharing
